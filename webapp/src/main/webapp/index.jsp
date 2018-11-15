@@ -6,4 +6,4 @@ Telangana
 updates by user
 15-11-2018
 2nd upadte
-
+Deployement is happening through ansible code
